@@ -1,2 +1,3 @@
 # projeto_snake_game
-Repositório do meu projeto_snake_game utilizando python 
+
+Neste projeto, utilizei as bibliotecas 'pygame' e 'random' da linguagem 'Python' para criar uma cópía do jogo 'Snake"
